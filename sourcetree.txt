@@ -14,3 +14,4 @@ branch
 >>>>>>> master
 push
 egoing
+pull
