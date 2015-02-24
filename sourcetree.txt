@@ -6,5 +6,9 @@ sourcetree test
 branch
 브랜치추가
 충돌
+<<<<<<< HEAD
 충돌해결
+=======
+원격저장소
+>>>>>>> master
 
