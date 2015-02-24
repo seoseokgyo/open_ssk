@@ -6,4 +6,5 @@ sourcetree test
 branch
 브랜치추가
 충돌
+원격저장소
 
